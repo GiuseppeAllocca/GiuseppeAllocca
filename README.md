@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Giuseppe! 👋
 
-<!--
-**GiuseppeAllocca/GiuseppeAllocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Computer Science Engineering student based in Naples, currently wrapping up my degree after an inspiring Erasmus experience in Spain.
 
-Here are some ideas to get you started:
+- 🎓 **Current Status:** Graduating soon from **Unina Federico II**
+- 🌍 **International Exp:** Recently completed Erasmus at **Universidad de Oviedo**
+- 🔭 **Focus:** Building solid Backend & Enterprise solutions
+- 🛠 **Tech Stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br/>
+
+📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/giuseppe-allocca-709872332/)
