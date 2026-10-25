@@ -1,14 +1,16 @@
-### Hi, I'm Giuseppe
+<h1 align="center">Hi, I'm Giuseppe 👋</h1>
 
-I'm a Computer Engineering MSc student at the University of Naples Federico II and a student at the Apple Developer Academy @Unina Federico II (2026-27).
+<p align="center">Computer Engineering MSc student at Federico II and student at the Apple Developer Academy, Naples.<br/>Interested in software engineering, AI and cloud infrastructure.</p>
 
-I'm interested in software engineering and AI, and I want to use them to build programmable, automated cloud infrastructure. I have worked with Java, C, Python, SQL and Swift.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-C74634?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+</p>
 
-Projects worth a look:
-
-- [architecture-as-code-mining](https://github.com/GiuseppeAllocca/architecture-as-code-mining): my bachelor's thesis. I built a dataset of 32,160 GitHub repositories and, in a sample of 1,990, found 239 that keep their architecture diagrams as code.
-- [Progetto_IDS_Los_Abuelos](https://github.com/GiuseppeAllocca/Progetto_IDS_Los_Abuelos): a Java desktop app for warehouse management (Swing, JPA/Hibernate, MySQL), built in a team.
-- [Progetto-DB-Los-Abuelos](https://github.com/GiuseppeAllocca/Progetto-DB-Los-Abuelos): an Oracle database for a review platform, with PL/SQL triggers and an APEX interface, built in a team of 3.
-- [PoseGuard](https://github.com/GiuseppeAllocca/PoseGuard): an iOS app, published on the App Store, that tracks posture with the AirPods motion sensors.
-
-You can reach me on [LinkedIn](https://www.linkedin.com/in/giuseppe-allocca-709872332/).
+<p align="center"><a href="https://www.linkedin.com/in/giuseppe-allocca-709872332/">LinkedIn</a> · <a href="mailto:giuseppe.allo04@gmail.com">Email</a></p>
